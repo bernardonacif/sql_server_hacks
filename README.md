@@ -7,7 +7,7 @@ Este repositório contém uma coleção de scripts SQL que fornecem hacks úteis
 
 ## Conteúdo
 
-### 1. [Optimização de Consultas](./optimizacao_consultas.sql)
+### 1. [Otimização de Consultas](./optimizacao_consultas.sql)
 Este script inclui uma série de técnicas e dicas para otimização de consultas SQL. Ele abrange tópicos como indexação adequada, uso de índices filtrados, reescrita de consultas complexas e muito mais.
 
 ### 2. [Scripts para Administração do Banco de Dados](./admin_banco_dados.sql)
